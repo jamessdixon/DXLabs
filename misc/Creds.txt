@@ -1,0 +1,19 @@
+
+
+Name: Withdrawals
+ServiceBusNamespace:chickensoftwarestreamanalytics
+EventHubName: inputhub
+PolicyName: RootManageSharedAccessKey
+PolicyKey: xZl+PJS8rfQxi1Qo+x5VOW7c/ELec5/wcwBoIDvy7q0=
+
+
+Name: FlaggedWithdrawals
+ServiceBusNamespace:chickensoftwarestreamanalytics
+EventHubName: outputhub
+PolicyName: ReceivePolicy
+PolicyKey: Ch2ZNaP3l8A5KTIgjqUZPsis5PeOsG0zS9lnnGBS8H0=
+
+
+chickensoftwareeventhub
+plz4F/SQKajO1uK+LBiKATdoUPRKJYkbNkfeFtGXQrYtILJXVf+J1swJLmsCoBk9yH02pudKe8glrB86heJprg==
+ATMDashboard
